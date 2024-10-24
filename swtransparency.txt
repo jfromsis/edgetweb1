@@ -1,0 +1,21 @@
+{
+  "fallback" : 751465570.005088,
+  "stateMachine" : {
+    "flags" : [
+      "reloadConfig"
+    ],
+    "publicKeybag" : {
+      "app" : "AT",
+      "env" : "production",
+      "fetchTime" : 749554356,
+      "patLogBeginMs" : 1727300597099,
+      "tltLogBeginMs" : 1698166491735,
+      "trustedAppSPKI" : [
+        "cV53rPR\/5Gugl5gjhPEFEzvmU+4rQ38AAgrAlVpGJXE=",
+        "iGERo4kMtfG6xDAMCN5LKRGllt5TWZQGCb42FoSDZAY=",
+        "Sd6\/pKyaTAHCHDtLBwidcVpHhnbL2f58y6mRI77bnRY="
+      ]
+    },
+    "state" : "ready"
+  }
+}
